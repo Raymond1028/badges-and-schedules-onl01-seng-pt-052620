@@ -1,4 +1,4 @@
-
+=begin
 def my_array(array)
   return "nothing" if my_array.empty
  names = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
@@ -6,7 +6,7 @@ def my_array(array)
     puts item 
       end
     end
-
+=end
     
     def badge_maker()
       names = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
