@@ -13,7 +13,7 @@ def my_array(array)
     
    # test1 v/ 
     def badge_maker(name)
-      return "Hello, my name is #{name}."
+      puts "Hello, my name is #{name}."
     end
     
     #test2
