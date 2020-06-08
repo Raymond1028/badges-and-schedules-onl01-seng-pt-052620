@@ -12,8 +12,8 @@ def my_array(array)
     #Write your code here.
     
    # test1 v/ 
-    def badge_maker(name)
-      return "Hello, my name is #{name}."
+    def badge_maker()
+      return "Hello, my name is Arel."
     end
     
     #test2
