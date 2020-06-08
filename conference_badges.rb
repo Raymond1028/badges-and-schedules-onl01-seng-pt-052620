@@ -1,7 +1,7 @@
 
 def my_array(array)
   return "nothing" if my_array.empty
- names = [Edsger, Ada, Charles, Alan, Grace, Linus, and Matz]
+ names = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
   names.each do |item|
     puts item 
       end
