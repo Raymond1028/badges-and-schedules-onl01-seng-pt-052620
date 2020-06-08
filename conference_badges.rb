@@ -24,9 +24,15 @@ def my_array(array)
       end
       return my_array
     end
-    def assign_rooms
-      rooms = {1,2,3,4,5,6,7]
-      
+    def assign_rooms(array)
+  nuarray = []
+  counter = 1
+  array.each do |name|
+    nuarray.push("Hello, #{name}! You'll be assigned to room #{counter}!")
+    counter += 1
+  end
+  return nuarray
+end
       
       
     end
