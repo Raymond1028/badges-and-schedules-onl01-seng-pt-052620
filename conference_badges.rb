@@ -15,6 +15,7 @@ def my_array(array)
     def badge_maker(name)
       return "Hello, my name is #{name}."
     end
+    
       
     
     
