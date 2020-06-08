@@ -8,3 +8,4 @@ def my_array()
       "Hello, my name is #{name}."
      end
     #Write your code here.
+    
