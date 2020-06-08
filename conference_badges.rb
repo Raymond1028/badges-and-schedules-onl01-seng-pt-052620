@@ -17,11 +17,12 @@ def my_array(array)
     end
     
     #test2
-    def batch_badge_creator()
-      names = ["Edsger", "Ada," ,"Charles", "Alan", "Grace", "Linus","Matz"] 
-      names.each do |name|
-        return "Hello, my name is #{name}."
+    def batch_badge_creator(array)
+      my_array =[]
+      array.each do |name|
+        my_array << "Hello, my name is #{name}."
       end
+      return my_array
     end
     
       
