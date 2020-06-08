@@ -14,6 +14,6 @@ def my_array(array)
         return "Hello, my name is #{name}."
      end
    end
-   #badge_maker()
+   badge_maker()
     #Write your code here.
     
