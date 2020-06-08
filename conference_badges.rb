@@ -9,7 +9,7 @@ def my_array(array)
 
     
     def badge_maker(name)
-      names = [Edsger, Ada, Charles, Alan, Grace, Linus, and Matz]
+      names = [Edsger, Ada, Charles, Alan, Grace, Linus,  Matz]
       names.each do |name|
         return "Hello, my name is #{name}."
      end
