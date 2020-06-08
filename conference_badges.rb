@@ -16,13 +16,19 @@ def my_array(array)
       return "Hello, my name is #{name}."
     end
     
-    #test2
+    #test2 v/
     def batch_badge_creator(array)
       my_array =[]
       array.each do |name|
         my_array << "Hello, my name is #{name}."
       end
       return my_array
+    end
+    def assign_rooms
+      rooms = {1,2,3,4,5,6,7]
+      
+      
+      
     end
     
       
